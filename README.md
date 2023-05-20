@@ -20,6 +20,7 @@ Ele funciona com um script de configuração a partir de sua própria linguagem
 
 1. Montando a infra
 
+~~~bash
 mkdir terraform-aws-instance
 
 echo "" >> main.tf
@@ -34,4 +35,5 @@ terraform init
 terraform plan
 
 terraform apply
+~~~
 
