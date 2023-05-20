@@ -97,3 +97,7 @@ resource "aws_instance" "app_server" {
     }
 }
 ~~~
+
+## Editando Regras do grupo de segurança para permitir conexão
+
+<iframe src="https://scribehow.com/embed/How_to_Configure_AWS_Security_Group_Rules__Lfi0_aNWTaeOpu7wM_g_lA" width="100%" height="640" allowfullscreen frameborder="0"></iframe>
